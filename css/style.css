@@ -1,3 +1,20 @@
 body {
-    text-align: center;
+
+}
+/*custom styles*/
+#scores {
+  text-align: right;
+}
+p {
+  font-size: 40px;
+}
+#canvas{
+  text-align: center;
+}
+#hearts {
+    text-align:left;
+}
+ul
+{
+    list-style-type: none;
 }
